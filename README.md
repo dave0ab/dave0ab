@@ -37,6 +37,36 @@ https://medicalbcorp.com/
 
 <h3 align="left">Stats:</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=dawitdev&show_icons=true"/>
-</p>
+<h3 align="left">Featured Work:</h3>
+
+<b>Android Maintenance Request System</b>  
+Used in a university to track maintenance requests and assign technicians  
+Tech: Java  
+
+<b>Angular Dashboard System</b>  
+Full dashboard with Spring Boot backend and MySQL database  
+Tech: Angular SCSS Spring Boot  
+
+<b>Clinic CRM System</b>  
+Real world CRM system for managing clients and workflows  
+Tech: Angular Spring Boot PostgreSQL  
+
+<b>LabEndoc Healthcare Platform</b>  
+Healthcare system for managing lab and medical workflows  
+Tech: Angular Spring Boot PostgreSQL  
+
+<b>LMS Project</b>  
+Learning management system project adapted for banking use case  
+Tech: EJS JavaScript  
+
+<h3 align="left">Activity:</h3>
+
+Consistent contributor with 2600 plus contributions in the last year  
+
+Recent work includes  
+HRIS system development and updates  
+CRM systems including clinic and montessori platforms  
+Healthcare platform LabEndoc improvements  
+Frontend and backend feature development and fixes  
+
+Focused on building real production systems not just demos
