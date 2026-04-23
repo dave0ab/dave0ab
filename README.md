@@ -7,7 +7,7 @@
 
 - 🔭 I build and maintain real production systems using Spring Boot and Angular  
 - 💬 Ask me about Java Spring Boot Angular REST APIs PostgreSQL AWS Nginx CI CD  
-- 📫 Contact me: **your-email-here@gmail.com**  
+- 📫 Contact me: **dave0ab@gmail.com**  
 - ⚡ Focused on clean architecture scalable systems and real world delivery  
 
 <h3 align="left">Tech Stack:</h3>
